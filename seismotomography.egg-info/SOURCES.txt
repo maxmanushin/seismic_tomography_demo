@@ -1,0 +1,13 @@
+README.md
+pyproject.toml
+seismotomography.egg-info/PKG-INFO
+seismotomography.egg-info/SOURCES.txt
+seismotomography.egg-info/dependency_links.txt
+seismotomography.egg-info/requires.txt
+seismotomography.egg-info/top_level.txt
+tomography/__init__.py
+tomography/geometry.py
+tomography/grid.py
+tomography/inversion.py
+tomography/ray_tracing.py
+tomography/synthetic.py
